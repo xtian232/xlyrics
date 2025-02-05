@@ -1,3 +1,7 @@
+# Programa para buscar lyrics y traducirlas
+# poner aca proximas mejoras
+
+
 from pathlib import Path
 from itertools import zip_longest
 from tkinter import filedialog, messagebox
